@@ -1,0 +1,1 @@
+This is a simple html website to show some recipes. This website is HTML focused and will not feature much styling with CSS. The aim of this website is to showcase basic HMTL knowledge.
